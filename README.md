@@ -1,3 +1,7 @@
+# Ankur x-core
+
+Ankur x-core is a fork of [XTLS/Xray-core](https://github.com/XTLS/Xray-core) from Project X. The upstream source code is distributed under the Mozilla Public License 2.0. See [LICENSE](LICENSE) for the full license text.
+
 # Project X
 
 [Project X](https://github.com/XTLS) originates from XTLS protocol, providing a set of network tools such as [Xray-core](https://github.com/XTLS/Xray-core) and [REALITY](https://github.com/XTLS/REALITY).
